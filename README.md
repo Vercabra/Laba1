@@ -1,1 +1,1 @@
-# AK3_lab1
+# AK3 Laba1
